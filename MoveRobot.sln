@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoveRobot", "MoveRobot\MoveRobot.csproj", "{2DB2594E-39E0-49EE-9178-8BC7994D5CB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DB2594E-39E0-49EE-9178-8BC7994D5CB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DB2594E-39E0-49EE-9178-8BC7994D5CB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DB2594E-39E0-49EE-9178-8BC7994D5CB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DB2594E-39E0-49EE-9178-8BC7994D5CB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6579A9E6-F017-4F35-8E39-EA6402209911}
+	EndGlobalSection
+EndGlobal
